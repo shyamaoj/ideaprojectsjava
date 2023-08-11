@@ -11,6 +11,7 @@ class A{
 }
 class B {
     int b;
+
     void A(int b)
     {
         this.b=b;
